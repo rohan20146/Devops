@@ -1,5 +1,5 @@
 echo "We are trying this practical from linux EC2"
 echo "I am from Young minds"
-echo "We are from batch-29 "
+echo "I am indian "
 echo "We are learning AWS, Azure DevOps and DevSecOps"
-echo "I am learning "
+echo "I am learning Devops "
