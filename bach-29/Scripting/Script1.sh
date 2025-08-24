@@ -5,4 +5,6 @@ echo "We are learning AWS, Azure DevOps and DevSecOps
 echo "Hi I am Reyansh shetye"
 echo "Hi I am Rohan"
 echo "Hi I am Rakesh"
+echo "Hi I am Priya"
+
 
